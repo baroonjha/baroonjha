@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+**Baroon** *Baroon* ~~Baroon~~
+* [] item2
+ * [x] Sub item 2b
+* [] item 1 
+
+
+1. Item 1
+   1. Item 1
+1. Item 2
+
+
+| Name | Age | Edu |
+| :--- | :---| :---|
+| Baroon| 21 | Bsc |
+
+[[Link](https://google.com)]
+this is inline `code`,here is block of code
+```ts
+let name = "Baroon";
+console.log(name)
+```
+> Just do it whatever comes in your mind.
+-->
