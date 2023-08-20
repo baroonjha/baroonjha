@@ -19,7 +19,10 @@
 - 📄 Know about my experiences [https://www.baroon.dev/resume](https://www.baroon.dev/resume)
 
 - ⚡ Fun fact **I'm Funny**
-
+ <details>
+   <p align="right"><summary>Github Trophy🏆</summary></p>
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baroonjha" alt="baroonjha" /></a> </p>
+ </details>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/baroonjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="baroonjha" height="30" width="40" /></a>
