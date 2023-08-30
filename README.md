@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **DevOps | Nextjs | Smart Contract Auditing |**
 
-- 👨‍💻 All of my projects are available at [https://www.baroon.dev](https://www.baroon.dev)
+- 👨‍💻 All of my projects are available at [https://www.baroonjha.dev](https://baroonjha.vercel.app/)
 
-- 📝 I regularly write articles on [https://baroon.hashnode.dev/](https://baroon.hashnode.dev/)
+- 📝 I started writing articles on [https://baroon.hashnode.dev/](https://baroon.hashnode.dev/)
 
 - 💬 Ask me about **React |Web Development |Web3 |NFT | Blockchain|**
 
 - 📫 How to reach me **baroonjha14@gmail.com**
 
-- 📄 Know about my experiences [https://www.baroon.dev/resume](https://www.baroon.dev/resume)
+<!--- 📄 Know about my experiences [https://www.baroon.dev/resume](https://www.baroon.dev/resume) -->
 
 - ⚡ Fun fact **I'm Funny**
  <details>
