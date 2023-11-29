@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/JhaBaroon" target="blank"><img src="https://img.shields.io/twitter/follow/JhaBaroon?logo=twitter&style=for-the-badge" alt="JhaBaroon" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps | Nextjs | Smart Contract Auditing |** ,my 5th sem exam is  from 4 December 
+- 🌱 I’m currently learning **DevOps | Nextjs | Smart Contract Auditing |**
+- Current Status : My 5th sem exam is  from 4 December
 
 - 👨‍💻 All of my projects are available at [https://www.baroonjha.dev](https://baroonjha.vercel.app/)
 
