@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **DevOps | Nextjs | Smart Contract Auditing |**
 - Current Status : Doing DSA and Web Dev along with DevOps
 
-- 👨‍💻 All of my projects are available at [https://www.baroonjha.dev](https://baroonjha.vercel.app/)
+<!--- - 👨‍💻 All of my projects are available at [https://www.baroonjha.dev](https://baroonjha.vercel.app/) -->
 
 - 📝 I started writing articles on [https://baroon.hashnode.dev/](https://baroon.hashnode.dev/)
 
