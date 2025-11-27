@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/JhaBaroon" target="blank"><img src="https://img.shields.io/twitter/follow/JhaBaroon?logo=twitter&style=for-the-badge" alt="JhaBaroon" /></a> </p>
 
-- Current Status : Working in a Startup
+- Current Status : Working in a Startup | Exploring the future with AI/ML
 
 <!--- - 👨‍💻 All of my projects are available at [https://www.baroonjha.dev](https://baroonjha.vercel.app/) -->
 
-- 📝 I started writing articles on [https://baroon.hashnode.dev/](https://baroon.hashnode.dev/)
+<!-- - 📝 I started writing articles on [https://baroon.hashnode.dev/](https://baroon.hashnode.dev/) -->
 
-- 💬 Ask me about **React |Web Development |Web3 |NFT | Blockchain|DevOps**
+- 💬 Ask me about **React |Web Development |Web3 |NFT | Blockchain|DevOps|AI/ML|RAG**
 
 - 📫 How to reach me **baroonjha14@gmail.com**
 
