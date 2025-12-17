@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baroon Kumar Jha Co-founder of Thaluwa</h1>
+<h1 align="center">Hi 👋, I'm Baroon Kumar Jha </h1>
 <h3 align="center">A passionate Software|DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,7 +8,7 @@
 
 - Current Status : Working in a Startup | Exploring the future with AI/ML
 
-<!--- - 👨‍💻 All of my projects are available at [https://www.baroonjha.dev](https://baroonjha.vercel.app/) -->
+ 👨‍💻Portfolio : [https://baroonjha.me](https://baroonjha.me) 
 
 <!-- - 📝 I started writing articles on [https://baroon.hashnode.dev/](https://baroon.hashnode.dev/) -->
 
