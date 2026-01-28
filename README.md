@@ -18,7 +18,7 @@
 
 <!--- 📄 Know about my experiences [https://www.baroon.dev/resume](https://www.baroon.dev/resume) -->
 
-- ⚡ Fun fact **I'm Funny**
+<!-- - ⚡ Fun fact **I'm Funny** -->
  <details>
    <p align="right"><summary>Github Trophy🏆</summary></p>
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baroonjha" alt="baroonjha" /></a> </p>
